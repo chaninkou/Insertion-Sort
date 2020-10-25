@@ -1,4 +1,4 @@
-package trees;
+package leetcode572;
 
 public class CheckIfSubtreeContainsFunction {
     public boolean isSubtree(TreeNode s, TreeNode t) {

@@ -1,4 +1,4 @@
-package trees;
+package leetcode572;
 
 import java.util.LinkedList;
 import java.util.Queue;
